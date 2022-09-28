@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Social World**
 
-- 🌱 I’m currently learning **Graphql,DSA**
+- 🌱 I’m currently learning **Graphql , DSA**
 
 - 👨‍💻 All of my projects are available at [https://my-portfolio-abd.vercel.app/](https://my-portfolio-abd.vercel.app/)
 
@@ -17,7 +17,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://dev.to/mohamed_abdulla" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="mohamed_abdulla" height="30" width="40" /></a>
+<a href="https://dev.to/Mohamed_Abdulla" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="mohamed_abdulla" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/mohamed-abdulla-a4084922a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohamed abdulla" height="30" width="40" /></a>
 </p>
 
