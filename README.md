@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Web3 , DSA**
 
-- 👨‍💻 All of my projects are available at [https://my-portfolio-abd.vercel.app/](https://my-portfolio-abd.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://mohamedabdulla.vercel.app/](https://mohamedabdulla.vercel.app/)
 
 - 💬 Ask me about **MERN Stack**
 
