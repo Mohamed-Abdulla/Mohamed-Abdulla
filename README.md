@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Social World**
 
-- 🌱 I’m currently learning **Graphql , DSA**
+- 🌱 I’m currently learning **Web3 , DSA**
 
 - 👨‍💻 All of my projects are available at [https://my-portfolio-abd.vercel.app/](https://my-portfolio-abd.vercel.app/)
 
