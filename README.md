@@ -5,9 +5,9 @@
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mohamed-abdulla" alt="mohamed-abdulla" /></a> </p> -->
 
-- 🔭 I’m currently working on **Social World**
+- 🔭 I’m currently working on **Colakin**
 
-- 🌱 I’m currently learning **Web3 , DSA**
+- 🌱 I’m currently learning **Web3**
 
 - 👨‍💻 All of my projects are available at [https://mohamedabdulla.vercel.app/](https://mohamedabdulla.vercel.app/)
 
