@@ -5,7 +5,7 @@
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mohamed-abdulla" alt="mohamed-abdulla" /></a> </p> -->
 
-- 🔭 I’m currently working on **Colakin**
+- 🔭 I’m currently working at **Colakin**
 
 - 🌱 I’m currently learning **Web3**
 
