@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://mohamedabdulla.vercel.app/](https://mohamedabdulla.vercel.app/)
 
-- 💬 Ask me about **MERN Stack**
+- 💬 Ask me about **Full Stack**
 
 - 📫 How to reach me **mohamedabdulla.web@gmail.com**
 
