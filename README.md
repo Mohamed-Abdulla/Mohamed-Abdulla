@@ -14,6 +14,8 @@
 
 - 📝 I regularly write articles on **[https://mohamed786.hashnode.dev/](https://mohamed786.hashnode.dev/)**
 
+- 📄 Know about my experiences **[https://drive.google.com/file/d/1WEKk52G_hFn5aCvXmGCdTrNgYpzVNhNG/view?usp=sharing](https://drive.google.com/file/d/1WEKk52G_hFn5aCvXmGCdTrNgYpzVNhNG/view?usp=sharing)**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://github.com/Mohamed-Abdulla" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="Mohamed-Abdulla" height="30" width="40" /></a>
