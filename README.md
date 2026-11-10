@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Mohamed%20Abdulla&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Full%20Stack%20Software%20Engineer%20%C2%B7%20AI-Native%20Engineering&descSize=18&descAlignY=58" width="100%" alt="header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Mohamed%20Abdulla&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Senior%20Full%20Stack%20Software%20Engineer%20%C2%B7%20AI-Native%20Engineering&descSize=18&descAlignY=58" width="100%" alt="header" />
 
 <div align="center">
 
@@ -16,7 +16,7 @@
 
 ## 👋 About me
 
-Full Stack Software Engineer with **4 years** of remote experience designing, securing and operating production systems for thousands of active users. I own solutions end to end: **backend & API architecture, identity and access management, event-driven services, observability, enterprise integrations and cross-platform mobile apps**.
+Senior Full Stack Software Engineer with **4 years** of remote experience designing, securing and operating production systems for thousands of active users. I own solutions end to end: **backend & API architecture, identity and access management, event-driven services, observability, enterprise integrations and cross-platform mobile apps**.
 
 I pair solid full stack fundamentals with **AI-native workflows** (agentic coding, context engineering, reusable agent rules and skills) and validate every AI-generated change against architecture, security and maintainability standards. I also turn business requirements into technical specs and implementation plans, and mentor engineers through code reviews.
 
@@ -32,7 +32,7 @@ I pair solid full stack fundamentals with **AI-native workflows** (agentic codin
 
 ## 💼 Experience
 
-**Full Stack Developer · [Colakin](https://colakin.com)** · Remote · 11/2022 – Present
+**Senior Software Engineer · [Colakin](https://colakin.com)** · Remote · 11/2022 – Present
 Lead backend and mobile architecture, security, and DevOps for client products, from pre-sales technical discovery through production delivery. I also run code reviews and mentor junior developers. Projects include VitaliT, ContractorSync, a financial claims platform with Xero integration, and the Next.js site for colakin.com.
 
 **Software Developer · Kasadsara Tech** · India · Part-time
