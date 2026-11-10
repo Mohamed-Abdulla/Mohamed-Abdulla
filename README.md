@@ -33,17 +33,10 @@ I pair solid full stack fundamentals with **AI-native workflows** (agentic codin
 ## 💼 Experience
 
 **Full Stack Developer · [Colakin](https://colakin.com)** · Remote · 11/2022 – Present
-
-- **VitaliT** (Flutter, iOS & Android): led backend and mobile architecture for a fitness app with AI meal recommendations, gamification, subscriptions and payments.
-- **ContractorSync** (Flutter, FastAPI, Oracle): enterprise workforce attendance platform with real-time shift tracking and role-based access.
-- **Financial claims platform**: led backend delivery for a production demo, with Xero integration for automated invoice processing via API sync and webhooks.
-- **colakin.com**: built the Next.js foundation of a 40+ page SEO-optimized site.
-- **Platform & DevOps**: Docker, Docker Swarm, Nginx, CI/CD.
-- **Solution engineering**: pre-sales discovery, technical specs, architecture evaluation and implementation plans.
-- **Leadership**: architecture decisions, code reviews, mentoring junior developers.
+Lead backend and mobile architecture, security, and DevOps for client products, from pre-sales technical discovery through production delivery. I also run code reviews and mentor junior developers. Projects include VitaliT, ContractorSync, a financial claims platform with Xero integration, and the Next.js site for colakin.com.
 
 **Software Developer · Kasadsara Tech** · India · Part-time
-Backend APIs and Next.js features, a Kanban-style timesheet management system, and a website remodel.
+Backend APIs and Next.js features, a Kanban-style timesheet system, and a website remodel.
 
 ## 🧪 Independent project
 
