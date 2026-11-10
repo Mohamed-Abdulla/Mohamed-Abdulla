@@ -95,15 +95,6 @@ Backend APIs and Next.js features, a Kanban-style timesheet management system, a
 
 </div>
 
-## 🎓 Education & certifications
-
-- **B.Tech, Information Technology** (GPA 8.0/10), Francis Xavier Engineering College, 2022 – 2025
-- **Diploma, Electrical and Electronics Engineering** (94%), Sankar Polytechnic College, 2017 – 2020
-- Building Scalable Java Microservices with Spring Boot and Spring Cloud (Google Cloud)
-- Full Stack Web Development Internship Program (Edureka)
-- Front-End Web Development with React and Bootstrap 4 (Coursera)
-- 🏆 Buddy Professional Award (B.Tech year 2), and selected for the cohort's highest-paid internship
-
 ## 📈 GitHub stats
 
 <div align="center">
